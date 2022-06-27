@@ -1,0 +1,4 @@
+			CMD:
+
+	Passo 1: cd C:\projetos\miniframework\public
+	Passo 2: C:\projetos\miniframework\public> "php -S localhost:8080"
